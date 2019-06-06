@@ -1,0 +1,11 @@
+C:\Users\jjhib\workspace\csharp\exercises\Custom-Types\bin\Debug\netcoreapp2.2\Custom-Types.deps.json
+C:\Users\jjhib\workspace\csharp\exercises\Custom-Types\bin\Debug\netcoreapp2.2\Custom-Types.runtimeconfig.json
+C:\Users\jjhib\workspace\csharp\exercises\Custom-Types\bin\Debug\netcoreapp2.2\Custom-Types.runtimeconfig.dev.json
+C:\Users\jjhib\workspace\csharp\exercises\Custom-Types\bin\Debug\netcoreapp2.2\Custom-Types.dll
+C:\Users\jjhib\workspace\csharp\exercises\Custom-Types\bin\Debug\netcoreapp2.2\Custom-Types.pdb
+C:\Users\jjhib\workspace\csharp\exercises\Custom-Types\obj\Debug\netcoreapp2.2\Custom-Types.csprojAssemblyReference.cache
+C:\Users\jjhib\workspace\csharp\exercises\Custom-Types\obj\Debug\netcoreapp2.2\Custom-Types.csproj.CoreCompileInputs.cache
+C:\Users\jjhib\workspace\csharp\exercises\Custom-Types\obj\Debug\netcoreapp2.2\Custom-Types.AssemblyInfoInputs.cache
+C:\Users\jjhib\workspace\csharp\exercises\Custom-Types\obj\Debug\netcoreapp2.2\Custom-Types.AssemblyInfo.cs
+C:\Users\jjhib\workspace\csharp\exercises\Custom-Types\obj\Debug\netcoreapp2.2\Custom-Types.dll
+C:\Users\jjhib\workspace\csharp\exercises\Custom-Types\obj\Debug\netcoreapp2.2\Custom-Types.pdb
